@@ -1,0 +1,22 @@
+{
+  "name": "teasakurasolo",
+  "version": "1.0.2",
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evansens",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evansens/teasakurasolo.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/Evansens/teasakurasolo/issues"
+  },
+  "homepage": "https://github.com/Evansens/teasakurasolo#readme"
+}
